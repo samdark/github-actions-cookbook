@@ -10,4 +10,4 @@
 
 - [Redis](nosql/redis.md)
 - [MongoDB](nosql/mongodb.md)
-- [MongoDB](nosql/memcached.md)
+- [memcached](nosql/memcached.md)
